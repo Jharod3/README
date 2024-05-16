@@ -1,4 +1,4 @@
-## Compan
+# Compan
 ### Es una aplicación creada para suplir las necesidades surgidas por medio del lanzamiento de la ley 2046 del 2020, del decreto 248 de 2021.
 
 ## El proyecto va dirigido hacia la secretaría de agricultura.
